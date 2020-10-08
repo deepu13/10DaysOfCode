@@ -1,6 +1,8 @@
 
 'use strict';
 
+alert("Hello, World!");
+
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
 
